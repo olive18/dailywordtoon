@@ -23,12 +23,21 @@ Instead of simply memorizing:
 you see the word used in a meaningful situation.
 
 For example, you can learn vocabulary through short campus and academic stories, making it easier to connect the word with a situation.
+<p align="center">
+   <a href="https://dailywordtoon.com/vocabulary">
+  <img src="Toefl-Vocabulary.webp" width="48%">
+   </a>
+</p>
 
-**[Insert screenshot: DailyWordtoon TOEFL Vocabulary page]**
+
 
 DailyWordtoon also includes **Academic Word List (AWL)** vocabulary, which is useful for building the academic vocabulary needed for TOEFL reading and listening.
 
-**[Insert screenshot: AWL vocabulary page]**
+<p align="center">
+   <a href="https://dailywordtoon.com/awl">
+  <img src="awl.jpg" width="48%">
+   </a>
+</p>
 
 ### How to practice
 
@@ -48,7 +57,17 @@ Once you have built some vocabulary, start practicing individual TOEFL skills.
 
 Go to **Practice → Reading** in DailyWordtoon.
 
-**[Insert screenshot: DailyWordtoon Reading Practice]**
+<p align="center">  
+   <a href="https://dailywordtoon.com/practice">
+  <img src="reading-complete.jpg" width="48%">
+   </a>
+  <a href="https://dailywordtoon.com/practice">
+    <img src="reading-dailylife.jpg" width="48%">
+  </a>
+  <a href="https://dailywordtoon.com/practice">
+   <img src="reading-academic.jpg" width="48%">
+  </a>
+</p>
 
 Instead of immediately taking a complete test, start with a manageable practice set.
 
@@ -71,7 +90,11 @@ Ask:
 
 This review is where much of the learning happens.
 
-**[Insert screenshot: Reading results/review page]**
+<p align="center">  
+  <a href="https://dailywordtoon.com/practice">
+  <img src="reading-review.jpg" width="48%">   
+  </a>
+</p>
 
 ---
 
@@ -83,7 +106,14 @@ Go to:
 
 **Practice → Listening**
 
-**[Insert screenshot: DailyWordtoon Listening Practice]**
+<p align="center">  
+  <a href="https://dailywordtoon.com/practice">
+  <img src="listening-response.jpg" width="48%">   
+  </a>
+   <a href="https://dailywordtoon.com/practice">
+  <img src="listening-conversation.jpg" width="48%">   
+  </a>
+</p>
 
 Listen carefully and answer the questions without looking at the transcript first.
 
@@ -109,7 +139,14 @@ Go to:
 
 **Practice → Writing**
 
-**[Insert screenshot: DailyWordtoon Writing Practice]**
+<p align="center">  
+  <a href="https://dailywordtoon.com/practice">
+  <img src="writing-sentence.jpg" width="48%">   
+  </a>
+   <a href="https://dailywordtoon.com/practice">
+  <img src="writing-email.jpg" width="48%">   
+  </a>
+</p>
 
 Focus on:
 
@@ -133,7 +170,14 @@ Go to:
 
 **Practice → Speaking**
 
-**[Insert screenshot: DailyWordtoon Speaking Practice]**
+<p align="center">  
+  <a href="https://dailywordtoon.com/practice">
+  <img src="speaking-repeat.jpg" width="48%">   
+  </a>
+   <a href="https://dailywordtoon.com/practice">
+  <img src="speaking-interview.jpg" width="48%">   
+  </a>
+</p>
 
 Practice answering within the available time rather than repeatedly preparing a perfect answer.
 
