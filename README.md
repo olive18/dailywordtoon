@@ -35,7 +35,7 @@ DailyWordtoon also includes **Academic Word List (AWL)** vocabulary, which is us
 
 <p align="center">
    <a href="https://dailywordtoon.com/awl">
-  <img src="awl.jpg" width="48%">
+  <img src="awl.jpg" width="78%">
    </a>
 </p>
 
@@ -61,9 +61,13 @@ Go to **Practice → Reading** in DailyWordtoon.
    <a href="https://dailywordtoon.com/practice">
   <img src="reading-complete.jpg" width="48%">
    </a>
+   </p>
+   <p align="center">
   <a href="https://dailywordtoon.com/practice">
     <img src="reading-dailylife.jpg" width="48%">
   </a>
+      </p>
+      <p align="center">
   <a href="https://dailywordtoon.com/practice">
    <img src="reading-academic.jpg" width="48%">
   </a>
@@ -110,6 +114,8 @@ Go to:
   <a href="https://dailywordtoon.com/practice">
   <img src="listening-response.jpg" width="48%">   
   </a>
+</p>
+<p align="center">
    <a href="https://dailywordtoon.com/practice">
   <img src="listening-conversation.jpg" width="48%">   
   </a>
@@ -143,6 +149,8 @@ Go to:
   <a href="https://dailywordtoon.com/practice">
   <img src="writing-sentence.jpg" width="48%">   
   </a>
+</p>
+<p align="center">
    <a href="https://dailywordtoon.com/practice">
   <img src="writing-email.jpg" width="48%">   
   </a>
@@ -174,6 +182,8 @@ Go to:
   <a href="https://dailywordtoon.com/practice">
   <img src="speaking-repeat.jpg" width="48%">   
   </a>
+</p>
+<p align="center">
    <a href="https://dailywordtoon.com/practice">
   <img src="speaking-interview.jpg" width="48%">   
   </a>
