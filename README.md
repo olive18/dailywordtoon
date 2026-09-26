@@ -240,7 +240,11 @@ Go to:
 
 **Practice Test**
 
-**[Insert screenshot: DailyWordtoon Practice Test page]**
+<p align="center">  
+   <a href="https://dailywordtoon.com/practice-test">
+  <img src="practice-test-1.jpg" width="48%">
+   </a>
+</p>
 
 The purpose of a practice test is different from a normal practice set.
 
@@ -250,7 +254,11 @@ A practice test helps you experience the complete testing process.
 
 You can practice moving through the different sections, managing your time, and staying focused during a longer session.
 
-**[Insert screenshot: Practice Test interface]**
+<p align="center">  
+   <a href="https://dailywordtoon.com/practice-test">
+  <img src="practice-test-2.jpg" width="48%">
+   </a>
+</p>
 
 Try to take the practice test under conditions similar to your actual exam.
 
